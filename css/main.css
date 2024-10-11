@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+#board {
+  border: 5px solid black;
+  height: 300px;
+  position: relative;
+}
+#player {
+  background-color: blueviolet;
+  position: absolute;
+}
+.obstacle {
+  background-color: orange;
+  position: absolute;
+}
